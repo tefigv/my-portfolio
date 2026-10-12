@@ -54,7 +54,7 @@ export function Link({
   const navigate = useNavigate();
   return (
     <a
-      href={`#${to}`}
+      href={`home${to}`}
       className={className}
       style={style}
       onClick={(e) => {
