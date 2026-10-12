@@ -1,0 +1,76 @@
+@import 'tailwindcss';
+
+/* ── Cormorant Unicase ── */
+@font-face {
+  font-family: 'Cormorant Unicase:Bold';
+  src: url('https://static.figma.com/font/CormorantUnicase-Bold_2') format('woff2');
+  font-style: normal;
+  font-weight: 700;
+}
+
+/* ── Cutive Mono ── */
+@font-face {
+  font-family: 'Cutive Mono:Regular';
+  src: url('https://static.figma.com/font/CutiveMono-Regular_2') format('woff2');
+  font-style: normal;
+  font-weight: 400;
+}
+
+/* ── Figma Hand ── */
+@font-face {
+  font-family: 'Figma Hand:Regular';
+  src: url('https://static.figma.com/font/FigmaHand-Regular_2') format('woff2');
+  font-style: normal;
+  font-weight: 400;
+}
+
+/* ── Mulish upright ── */
+@font-face {
+  font-family: 'Mulish:Regular';
+  src: url('https://static.figma.com/font/Mulish_wght__1') format('woff2');
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Mulish:SemiBold';
+  src: url('https://static.figma.com/font/Mulish_wght__1') format('woff2');
+  font-style: normal;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: 'Mulish:Bold';
+  src: url('https://static.figma.com/font/Mulish_wght__1') format('woff2');
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'Mulish:Black';
+  src: url('https://static.figma.com/font/Mulish_wght__1') format('woff2');
+  font-style: normal;
+  font-weight: 900;
+}
+
+/* ── Mulish italic ── */
+@font-face {
+  font-family: 'Mulish:Medium Italic';
+  src: url('https://static.figma.com/font/Mulish-Italic_wght__1') format('woff2');
+  font-style: italic;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'Mulish:SemiBold Italic';
+  src: url('https://static.figma.com/font/Mulish-Italic_wght__1') format('woff2');
+  font-style: italic;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: 'Mulish:Bold Italic';
+  src: url('https://static.figma.com/font/Mulish-Italic_wght__1') format('woff2');
+  font-style: italic;
+  font-weight: 700;
+}
